@@ -7,7 +7,6 @@ import reducers from "./reducers";
 import reduxThunk from "redux-thunk";
 
 const Main = styled.div`
-  height: 100vh;
   width: 100vw;
   background: #fff6f8;
   padding: 30px;
